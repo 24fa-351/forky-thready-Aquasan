@@ -1,0 +1,86 @@
+** Pattern: 1, creating 5 processes
+Parent: created child process 0 (pid 38088)
+Child 0 (pid 38088) sleeping for 3 seconds
+Parent: created child process 1 (pid 47880)
+Child 1 (pid 47880) sleeping for 8 seconds
+Parent: created child process 2 (pid 43516)
+Child 2 (pid 43516) sleeping for 9 seconds
+Parent: created child process 3 (pid 32048)
+Child 3 (pid 32048) sleeping for 2 seconds
+Parent: created child process 4 (pid 12484)
+Child 4 (pid 12484) sleeping for 9 seconds
+** Pattern: 1, All processes created
+** Pattern: 2, creating 15 processes
+Parent: created child process 0 (pid 41820)
+Child 0 (pid 41820) sleeping for 2 seconds
+Parent: created child process 1 (pid 46092)
+Child 1 (pid 46092) sleeping for 2 seconds
+Parent: created child process 2 (pid 44888)
+Child 2 (pid 44888) sleeping for 1 seconds
+Parent: created child process 3 (pid 42488)
+Child 3 (pid 42488) sleeping for 11 seconds
+Parent: created child process 4 (pid 15748)
+Child 4 (pid 15748) sleeping for 11 seconds
+Parent: created child process 5 (pid 41092)
+Child 5 (pid 41092) sleeping for 8 seconds
+Parent: created child process 6 (pid 33964)
+Child 6 (pid 33964) sleeping for 2 seconds
+Parent: created child process 7 (pid 36260)
+Child 7 (pid 36260) sleeping for 4 seconds
+Parent: created child process 8 (pid 36068)
+Child 8 (pid 36068) sleeping for 11 seconds
+Parent: created child process 9 (pid 46348)
+Child 9 (pid 46348) sleeping for 7 seconds
+Parent: created child process 10 (pid 28164)
+Child 10 (pid 28164) sleeping for 6 seconds
+Parent: created child process 11 (pid 10224)
+Child 11 (pid 10224) sleeping for 10 seconds
+Parent: created child process 12 (pid 52000)
+Child 12 (pid 52000) sleeping for 5 seconds
+Parent: created child process 13 (pid 46376)
+Child 13 (pid 46376) sleeping for 1 seconds
+Parent: created child process 14 (pid 48912)
+Child 14 (pid 48912) sleeping for 8 seconds
+** Pattern: 2, All processes created
+** Pattern: 3, creating 20 processes
+Parent: created child process 0 (pid 28696)
+Child 0 (pid 28696) sleeping for 4 seconds
+Parent: created child process 1 (pid 42408)
+Child 1 (pid 42408) sleeping for 9 seconds
+Parent: created child process 2 (pid 50132)
+Child 2 (pid 50132) sleeping for 3 seconds
+Parent: created child process 3 (pid 51636)
+Child 3 (pid 51636) sleeping for 7 seconds
+Parent: created child process 4 (pid 33532)
+Child 4 (pid 33532) sleeping for 9 seconds
+Parent: created child process 5 (pid 39448)
+Child 5 (pid 39448) sleeping for 7 seconds
+Parent: created child process 6 (pid 29448)
+Child 6 (pid 29448) sleeping for 11 seconds
+Parent: created child process 7 (pid 43996)
+Child 7 (pid 43996) sleeping for 9 seconds
+Parent: created child process 8 (pid 51912)
+Child 8 (pid 51912) sleeping for 5 seconds
+Parent: created child process 9 (pid 43276)
+Child 9 (pid 43276) sleeping for 10 seconds
+Parent: created child process 10 (pid 36068)
+Child 10 (pid 36068) sleeping for 9 seconds
+Parent: created child process 11 (pid 40260)
+Child 11 (pid 40260) sleeping for 10 seconds
+Parent: created child process 12 (pid 12816)
+Child 12 (pid 12816) sleeping for 3 seconds
+Parent: created child process 13 (pid 14368)
+Child 13 (pid 14368) sleeping for 2 seconds
+Parent: created child process 14 (pid 52004)
+Child 14 (pid 52004) sleeping for 10 seconds
+Parent: created child process 15 (pid 8736)
+Child 15 (pid 8736) sleeping for 10 seconds
+Parent: created child process 16 (pid 46552)
+Child 16 (pid 46552) sleeping for 5 seconds
+Parent: created child process 17 (pid 32012)
+Child 17 (pid 32012) sleeping for 1 seconds
+Parent: created child process 18 (pid 44756)
+Child 18 (pid 44756) sleeping for 3 seconds
+Parent: created child process 19 (pid 48912)
+Child 19 (pid 48912) sleeping for 4 seconds
+** Pattern: 3, All processes created
